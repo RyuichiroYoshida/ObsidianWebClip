@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Docker と ECS と WebSocket で最強のマルチプレイ・ゲームサーバを構築.md",
+                "file": "Clippings/「あれ、サーバー代で倒産する…？」大ヒットゲーム・パルワールドが語る、安価で堅牢なインフラ構築 (22).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker と ECS と WebSocket で最強のマルチプレイ・ゲームサーバを構築"
+              "title": "「あれ、サーバー代で倒産する…？」大ヒットゲーム・パルワールドが語る、安価で堅牢なインフラ構築 (22)"
             }
           }
         ]
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -193,10 +193,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cde12d56a6dca16e",
+  "active": "fa18f62319bde429",
   "lastOpenFiles": [
-    "Clippings/API設計まとめ.md",
+    "Clippings/Go でマルチスレッドプログラミングする際に最低限知っておくべきこと.md",
+    "Clippings/「あれ、サーバー代で倒産する…？」大ヒットゲーム・パルワールドが語る、安価で堅牢なインフラ構築 (22).md",
+    "Clippings/さくらの開発チームにおけるTerraformAnsibleの活用.md",
+    "Clippings/エンジニア1年目の自分に薦めたい技術書13選.md",
+    "Clippings/GopherがRust入門したので違いをまとめてみた.md",
+    "Clippings/テストを書く方針と原則の備忘録.md",
+    "Clippings/Docker composeとAWS(ECRECS)デプロイ.md",
+    "Clippings/Docker  Docker Desktop  Rancher Desktop って何が違うの？.md",
     "Clippings/Docker と ECS と WebSocket で最強のマルチプレイ・ゲームサーバを構築.md",
+    "Clippings/API設計まとめ.md",
     "Clippings/もしもいま、RubyRailsをイチから学び直すとしたら？　Ruby技術書著者・五十嵐 邦明さんに聞いた学習ロードマップ.md",
     "Clippings/テスト自動化に取り組みたいなら知っておきたい「Cypress」と「Playwright」の違い.md",
     "Clippings/【2024年最新版】0からReactを勉強するならこのロードマップに従え！.md",
@@ -213,14 +221,6 @@
     "Clippings/実践ARMアーキテクチャ移行.md",
     "Clippings/【2024年版】MIXI 新卒向け技術研修の資料・動画を公開しました！.md",
     "Clippings/5分で分かるTerraform（Infrastructure as Code）  LAC WATCH.md",
-    "Clippings/Infrastructure as Code (IaC) とは？をわかりやすく解説.md",
-    "Clippings/terraform (planapply) in GitHub Actions.md",
-    "Clippings/マイクロサービスで「APIゲートウェイを使わない方がよい」のはどんなときか.md",
-    "Clippings/効率的なデータ運用の鍵、データオーケストレーションとは何か.md",
-    "Clippings/ドメイン駆動設計の実践.md",
-    "Clippings/さきがけから振り返るアーキテクチャ刷新  Reflecting on the Architectural Renewal from the Vanguard.md",
-    "Clippings/【実践的ユニットテスト入門】今からでも遅くない！ ソフトウェアの最小単位を自動でテストする.md",
-    "Clippings/Unity設計入門：目次.md",
     "Excalidraw",
     "ChatGPT",
     "ChatGPT メモ",
