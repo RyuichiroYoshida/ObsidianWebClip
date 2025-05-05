@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9aadbebc2acf2779",
+        "id": "c6883d805f8df56c",
         "type": "tabs",
         "children": [
           {
-            "id": "fa18f62319bde429",
+            "id": "74fc91d2f6930de1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/「あれ、サーバー代で倒産する…？」大ヒットゲーム・パルワールドが語る、安価で堅牢なインフラ構築 (22).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "「あれ、サーバー代で倒産する…？」大ヒットゲーム・パルワールドが語る、安価で堅牢なインフラ構築 (22)"
+              "title": "新規タブ"
             }
           }
         ]
@@ -169,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,34 +189,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fa18f62319bde429",
+  "active": "cde12d56a6dca16e",
   "lastOpenFiles": [
-    "Clippings/Go でマルチスレッドプログラミングする際に最低限知っておくべきこと.md",
-    "Clippings/「あれ、サーバー代で倒産する…？」大ヒットゲーム・パルワールドが語る、安価で堅牢なインフラ構築 (22).md",
-    "Clippings/さくらの開発チームにおけるTerraformAnsibleの活用.md",
-    "Clippings/エンジニア1年目の自分に薦めたい技術書13選.md",
-    "Clippings/GopherがRust入門したので違いをまとめてみた.md",
-    "Clippings/テストを書く方針と原則の備忘録.md",
-    "Clippings/Docker composeとAWS(ECRECS)デプロイ.md",
-    "Clippings/Docker  Docker Desktop  Rancher Desktop って何が違うの？.md",
-    "Clippings/Docker と ECS と WebSocket で最強のマルチプレイ・ゲームサーバを構築.md",
-    "Clippings/API設計まとめ.md",
-    "Clippings/もしもいま、RubyRailsをイチから学び直すとしたら？　Ruby技術書著者・五十嵐 邦明さんに聞いた学習ロードマップ.md",
-    "Clippings/テスト自動化に取り組みたいなら知っておきたい「Cypress」と「Playwright」の違い.md",
-    "Clippings/【2024年最新版】0からReactを勉強するならこのロードマップに従え！.md",
-    "Clippings/Webアプリ開発におけるE2Eテストとは？　ほかのテストとの違いやE2Eテストをどう利用すべきかを解説.md",
-    "Clippings/AWS Lambdaを最大限に活用するためのベストプラクティス.md",
-    "Clippings/知らないと後悔する最強のエンジニア勉強法.md",
-    "Clippings/KubernetesのJobを使ってプルリクを起点に検証環境が自動で構築される仕組みを改善した話.md",
-    "Clippings/単体テストの考え方使い方を読んだ。読んでよかった。.md",
-    "Clippings/食べログノートでWebSocket不要の(ほぼ)リアルタイム更新を実現した話.md",
-    "Clippings/アンチパターンで学ぶDB設計.md",
-    "Clippings/Notionカレンダーでタスク管理ができるChrome拡張機能をリリースしました（TTNC）.md",
-    "Clippings/Notion APIを使って実践向け実装.md",
-    "Clippings/Kubernetes超入門.md",
-    "Clippings/実践ARMアーキテクチャ移行.md",
-    "Clippings/【2024年版】MIXI 新卒向け技術研修の資料・動画を公開しました！.md",
-    "Clippings/5分で分かるTerraform（Infrastructure as Code）  LAC WATCH.md",
+    "Clippings/日本ではKubernetesやCICDなどが幻滅期に、インダストリクラウドやインフラ自動化は過度な期待。「日本におけるクラウド・プラットフォームのハイプ・サイクル」2024年版発表.md",
+    "Clippings/もしもいま、クラウドインフラをイチから学び直すとしたら？　株式会社esite SRE・徳原さんに聞く学習ロードマップ.md",
+    "Clippings/「社内でのサーバーレスアプリケーション開発を、プラットフォームエンジニアリングを整備して迅速化・安定化させる取り組み」というテーマでServerlessDays Tokyo 2024 に登壇しました  DevelopersIO.md",
+    "Clippings/成果を最速で出すタイパ勉強法.md",
+    "Clippings/サーバーレス技術の今と未来についてServerlessDays TokyoのPreEventで話してきました.md",
+    "Clippings/新規サービス開発で起こったインフラ移行の舞台裏.md",
+    "Clippings/Ruby on Rails チュートリアル：プロダクト開発の０→１を学ぼう.md",
+    "Clippings/📗 なぜ依存を注入するのか DIの原理・原則とパターンを読んだ感想.md",
+    "Clippings/もしもいま、Rustをイチから学び直すとしたら？　Rust入門書著者・matsu7874さんに聞く学習ロードマップ.md",
+    "Clippings/APIエンドポイントとは？.md",
+    "Clippings/システム構成図とは？種類や書き方、作成手順を解説.md",
+    "Clippings/はじめに｜古典学派的テストとGoで考える持続可能なアーキテクチャ入門.md",
+    "Clippings/実践テスト駆動開発を読んだのでモックを使ったロンドン学派的なテストをGoとmoqで考える.md",
+    "Clippings/「凡人が天才のマネをしても失敗する」著名エンジニアたちに学ぶ、成長のために必要なこと - エンジニアtype  転職type.md",
+    "Clippings/UnityプロジェクトにおけるGitHub Actions活用  QualiArtsエンジニアブログ.md",
+    "Clippings/GitHub Actionsのセルフホステッドランナーを構築する.md",
+    "Clippings/運用開始から4か月経ってから振り返るAWS&GitHub&Terraformを使ったUnity CI環境.md",
+    "Clippings/スケーラブルなUnityのCI環境の実現｜カバー株式会社　公式note.md",
+    "Clippings/【Unity】GitHub Actions × Game CIでWebGLのCICD環境構築(デプロイ先はNetlify).md",
+    "Clippings/GitHub ActionsでUnityのお手軽CI.md",
+    "Clippings/ChatGPTでGASスクリプトを出力させ、難しい作業を自動化する手順【AIワークハック】.md",
+    "Clippings/AWSを極めたい？ならばワークショップをCDKでやってみよう！.md",
+    "Clippings/簡単に自動化が実現！ 無料で始める「Google Apps Script」で作業効率を上げる方法【Google活用基本のき】.md",
+    "Clippings/ITWebエンジニアの転職・求人サイトFindy – GitHubからスキル偏差値を算出.md",
+    "Clippings/GitHub ActionsのJobが落ちたときに何をするべきかを記述するPlaybookの仕組みを作って運用している話.md",
+    "Clippings/UnityとRustでTCP通信をしてみる.md",
     "Excalidraw",
     "ChatGPT",
     "ChatGPT メモ",
