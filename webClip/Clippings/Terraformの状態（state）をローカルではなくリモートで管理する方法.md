@@ -10,6 +10,7 @@ tags:
   - Tech
   - クラウド
   - "#Terraform"
+  - IaC
 read: false
 ---
 ## Terraformの状態（state）をローカルではなくリモートで管理する方法：「AWS」×「Terraform」で学ぶクラウド時代のインフラ管理入門（8）

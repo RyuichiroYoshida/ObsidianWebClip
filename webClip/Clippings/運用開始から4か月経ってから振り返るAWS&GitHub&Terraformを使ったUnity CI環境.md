@@ -12,6 +12,7 @@ tags:
   - Terraform
   - クラウド
   - Unity
+  - IaC
 read: false
 ---
 エンジニアの岡村です。

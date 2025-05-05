@@ -12,6 +12,7 @@ tags:
   - バックエンド
   - クラウド
   - 学習系
+  - IaC
 read: false
 ---
 ![](https://relay-dsp.ad-m.asia/dmp/sync/bizmatrix?pid=c3ed207b574cf11376&d=x18o8hduaj&uid=3551653)

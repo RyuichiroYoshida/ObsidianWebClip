@@ -10,6 +10,7 @@ tags:
   - Tech
   - Terraform
   - 思想系
+  - IaC
 read: false
 ---
 しばたです。

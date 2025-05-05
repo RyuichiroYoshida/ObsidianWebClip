@@ -11,6 +11,7 @@ tags:
   - Terraform
   - インフラ
   - クラウド
+  - IaC
 read: false
 ---
 ![](https://knowledge.sakura.ad.jp/wp-content/uploads/2024/08/camphor-202407-1-1340x754.jpg)

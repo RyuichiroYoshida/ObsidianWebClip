@@ -10,6 +10,7 @@ tags:
   - Tech
   - Terraform
   - Tools
+  - IaC
 read: false
 ---
 [ソフトウェア](https://gigazine.net/news/C4/)

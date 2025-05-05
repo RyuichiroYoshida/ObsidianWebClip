@@ -12,6 +12,7 @@ tags:
   - Terraform
   - クラウド
   - バックエンド
+  - IaC
 read: false
 ---
 ![](https://knowledge.sakura.ad.jp/wp-content/uploads/2024/07/t.png)
