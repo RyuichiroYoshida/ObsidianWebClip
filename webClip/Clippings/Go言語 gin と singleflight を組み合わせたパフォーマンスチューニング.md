@@ -8,7 +8,7 @@ created: 2025-05-06
 description: パフォーマンス最適化の文脈で登場することの多い singleflight と、鵜ウェブフレームワーク gin を組み合わせた実装例を紹介します。
 tags:
   - Go
-  - Tech
+  - 1
   - QA
   - バックエンド
 read: false

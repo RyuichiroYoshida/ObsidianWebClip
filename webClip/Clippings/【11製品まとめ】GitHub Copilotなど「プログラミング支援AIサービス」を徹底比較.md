@@ -7,7 +7,7 @@ published:
 created: 2025-05-06
 description: GitHub CopilotやAWS CodeWhispererをはじめとする、コードエディタに統合できる11種類のプログラミング支援AIをまとめた。
 tags:
-  - Tech
+  - 1
   - Tools
   - AI
 read:

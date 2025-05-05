@@ -7,7 +7,7 @@ published:
 created: 2025-05-06
 description: 
 tags:
-  - Tech
+  - 1
   - Go
   - QA
   - 思想系

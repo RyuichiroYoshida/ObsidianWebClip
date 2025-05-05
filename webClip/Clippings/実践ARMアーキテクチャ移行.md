@@ -8,7 +8,7 @@ created: 2025-05-06
 description: https://techramenconf.net/Technology Roundtable on the future of Asahikawa for Makers and ENgineers.上記イベントでお話しました。
 tags:
   - CI-CD
-  - Tech
+  - 1
   - "#ハードウェア"
   - バックエンド設計
 read: false

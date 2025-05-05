@@ -7,7 +7,7 @@ published: 2024-09-14
 created: 2025-05-06
 description: こんにちは！ゆせです！今回は、「ドメイン駆動設計」（Domain-Driven Design、通称"DDD"）についてアウトプットしておこうと思います。というのも、最近DDDを採用している大きめの…
 tags:
-  - Tech
+  - 1
   - 設計
 read: false
 ---

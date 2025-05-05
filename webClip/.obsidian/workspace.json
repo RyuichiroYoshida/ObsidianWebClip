@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6e91956a71c8850",
+        "id": "c6dd88b9decc0e5d",
         "type": "tabs",
         "children": [
           {
-            "id": "6a6ec29cc6886078",
+            "id": "90d651bce06ad07c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Google App Scriptを特定のタイミングで自動で動かしたい.md",
+                "file": "Clippings/「テスト駆動開発」は時を超える技術。凡人が天才と肩を並べるための秘密兵器【米マイクロソフト・牛尾 剛】 - エンジニアtype  転職type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google App Scriptを特定のタイミングで自動で動かしたい"
+              "title": "「テスト駆動開発」は時を超える技術。凡人が天才と肩を並べるための秘密兵器【米マイクロソフト・牛尾 剛】 - エンジニアtype  転職type"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#IaC",
+                "query": "tag:#設計",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -193,34 +194,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cde12d56a6dca16e",
+  "active": "90d651bce06ad07c",
   "lastOpenFiles": [
-    "Clippings/【GAS】GASで定期的にプログラムを実行する.md",
+    "Clippings/LINQ - Python チートシート.md",
+    "Clippings/Unity Cの関数を誰でも扱えるように。『FF7EC』におけるスクリプト言語「Lua」活用テクニック【CAGC2024】｜ゲームメーカーズ.md",
+    "Clippings/「GitHub CICD実践ガイド」を読んで、GitHub Actionsを始めよう.md",
+    "Zenn.md",
+    "Clippings/【2024年版】MIXI 新卒向け技術研修の資料・動画を公開しました！.md",
+    "Clippings/「テスト駆動開発」は時を超える技術。凡人が天才と肩を並べるための秘密兵器【米マイクロソフト・牛尾 剛】 - エンジニアtype  転職type.md",
+    "Qiita.md",
+    "Clippings/GAS×React×TypeScriptによるWebアプリの作り方.md",
+    "Clippings/知ってそうで知らないHTTPS.md",
+    "Clippings/「作って学ぶ ブラウザのしくみ」を読んだ.md",
+    "Clippings/朝食から学ぶアジャイル開発.md",
+    "Clippings/GitHub Projects で実現する社内資産管理.md",
+    "Clippings/Go初学者へのコードレビューでよくあったコメント20選.md",
+    "Clippings/初心者による初心者のためのRedis解説.md",
+    "Clippings/【QA業務効率化】GAS + Notion APIを用いたテスト進捗報告の自動生成.md",
+    "Clippings/【Go】Goのプロジェクトの雛形を作れるCLIツール「go-blueprint」を使ってみる.md",
+    "Clippings/【Gin】GolangのフレームワークGinの特徴と活用法.md",
+    "Clippings/アプリ開発でGo言語を採用するメリット.md",
+    "Clippings/弊社の「意識ﾁｮｯﾄ低いアーキテクチャ」10選.md",
+    "Clippings/Goパターンとアンチパターン  AppMaster.md",
+    "Clippings/GitHubをコードで管理 ! Terraformを導入して安全な管理を実現しました.md",
+    "Clippings/Go Template の基本的な動作を見てみよう.md",
+    "Clippings/Golang Golangの設計で気を付けている事.md",
     "Clippings/Google App Scriptを特定のタイミングで自動で動かしたい.md",
+    "Clippings/【GAS】GASで定期的にプログラムを実行する.md",
     "Clippings/GoroutineとChannel.md",
-    "Clippings/gocron v2で定期実行を走らせる.md",
-    "Clippings/【前編】UnityのAddressableを個人制作で使いこなす.md",
-    "Clippings/Cの素晴らしさ  ドクセル.md",
-    "Clippings/dotnet-formatでCソースコードを整形する.md",
-    "Clippings/GitHub にコード整形してもらおう - GitHub Actions でコード整形&コミット.md",
-    "Clippings/プルリクを気持ちよくレビューしあえるコツあれこれ.md",
-    "Clippings/開発用適当ツールはGoで作るのがオススメ.md",
-    "Clippings/外部サービスからDiscordにメッセージを送る（Webhook).md",
-    "Clippings/GitHub ActionsからSimpleにDiscordに通知を送る.md",
-    "Clippings/【Python】VSCodeで関数の引数名を表示する神機能.md",
-    "Clippings/Infrastructure as Code でセキュリティを楽にしよう！.md",
-    "Clippings/新規サービス開発で起こったインフラ移行の舞台裏.md",
-    "Clippings/新しいTerraformのバージョンマネージャー tenv を試してみた  DevelopersIO.md",
-    "Clippings/運用開始から4か月経ってから振り返るAWS&GitHub&Terraformを使ったUnity CI環境.md",
-    "Clippings/さくらの開発チームにおけるTerraformAnsibleの活用.md",
-    "Clippings/Terraformの状態（state）をローカルではなくリモートで管理する方法.md",
-    "Clippings/Terraformのコードを読み取ってクラウド費用を推定してくれる「Infracost」にJetBrains拡張機能版が登場.md",
-    "Clippings/terraformとはなんなのか？.md",
-    "Clippings/TerraformとAnsibleで作るさくらのクラウドのKubernetesクラスタ.md",
-    "Clippings/terraform (planapply) in GitHub Actions.md",
-    "Clippings/5分で分かるTerraform（Infrastructure as Code）  LAC WATCH.md",
-    "Clippings/AWS超入門〜Amazon EC2編〜.md",
-    "Clippings/Unity Assembly Definition 完全に理解した.md",
     "Excalidraw",
     "ChatGPT",
     "ChatGPT メモ",

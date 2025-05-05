@@ -7,7 +7,7 @@ published: 2024-07-03
 created: 2025-05-06
 description: 今回は、改めてUbuntuサーバーの初歩的なインストール方法について紹介します。
 tags:
-  - Tech
+  - 1
   - "#Ubuntu"
   - バックエンド
 read: false

@@ -8,7 +8,7 @@ created: 2025-05-06
 description: newmoではGitHub Actionsを自動テスト、Lint、デプロイなどに利用しています。 また、newmoではmonorepoで開発しているため、1つのリポジトリに複数のチーム/複数のアプリケーションが存在しています。 GitHub Actionsではpathsを使うことで、特定のファイルが変更された場合のみ特定のWorkflowが実行できます。 newmoのmonorepoのworkflowでは基本的にpathsが指定されていますが、それでも普段は触らないファイルを変更して意図せずにCIが落ちることがあります。 GitHub ActionsのCIが落ちたときに、そのCIの仕組みを作っ…
 tags:
   - CI-CD
-  - Tech
+  - 1
 read: false
 ---
 newmoではGitHub Actionsを自動テスト、Lint、デプロイなどに利用しています。 また、newmoではmonorepoで開発しているため、1つのリポジトリに複数のチーム/複数のアプリケーションが存在しています。

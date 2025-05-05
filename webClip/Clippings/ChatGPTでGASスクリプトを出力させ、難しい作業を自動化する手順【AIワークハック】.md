@@ -9,7 +9,7 @@ description: ChatGPTを活用すると様々な業務を効率化することが
 tags:
   - AI
   - GAS
-  - Tech
+  - 1
   - Tools
 read: false
 ---

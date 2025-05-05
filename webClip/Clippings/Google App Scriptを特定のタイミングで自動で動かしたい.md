@@ -185,7 +185,7 @@ YYYY-MM-DD HH:MMの形で日時を指定するとその時間に関数が動き�
 1. [TROCCO入門](https://ex-ture.com/blog/2025/05/01/trocco_for_beginner/)
 2. [コンポーザブルCDPにおけるSnowflakeのマルチモーダ…](https://ex-ture.com/blog/2025/04/21/composablecdp-snowflakellm/)
 3. [boxMCPサーバーを使ってみた](https://ex-ture.com/blog/2025/04/21/boxmcp%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/)
-4. [#ai-datacloud勉強会でマルチモーダルに触れた日](https://ex-ture.com/blog/2025/04/17/ai-datacloud-multimodal/)
+4. [#1](https://ex-ture.com/blog/2025/04/17/ai-datacloud-multimodal/)
 5. [Matillion ETLを安全に使いたい人へ送る、SSL対…](https://ex-ture.com/blog/2025/04/16/matillion-etl-ssl/)
 
 1. [![](https://ex-ture.com/blog/wp-content/uploads/2019/05/%E3%82%AA%E3%83%97%E3%83%86%E3%82%A3%E3%83%9E%E3%82%A4%E3%82%BA%E7%94%BB%E5%83%8F.png)](https://ex-ture.com/blog/2019/05/16/%e3%82%aa%e3%83%97%e3%83%86%e3%82%a3%e3%83%9e%e3%82%a4%e3%82%ba%ef%bc%88optimize%ef%bc%89%e3%81%a3%e3%81%a6%e4%bd%95%ef%bc%9f/) [オプティマイズ（Optimize）って何？](https://ex-ture.com/blog/2019/05/16/%e3%82%aa%e3%83%97%e3%83%86%e3%82%a3%e3%83%9e%e3%82%a4%e3%82%ba%ef%bc%88optimize%ef%bc%89%e3%81%a3%e3%81%a6%e4%bd%95%ef%bc%9f/)

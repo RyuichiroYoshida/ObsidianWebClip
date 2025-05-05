@@ -7,7 +7,7 @@ published:
 created: 2025-05-06
 description: インフラ自動化ツールの一つである「Terraform」について、これから学ぼうという方、使っていきたい方を対象に、Terraformの導入方法や基本的な使い方を紹介していく本連載。今回は、Terraformの状態（state）をローカルではなくリモートで管理する方法を紹介します。
 tags:
-  - Tech
+  - 1
   - クラウド
   - "#Terraform"
   - IaC

@@ -7,7 +7,7 @@ published: 2024-08-17
 created: 2025-05-06
 description: コードでインフラストラクチャーを管理する「Terraform」を使用している場合に、クラウドサービスの月間の推定費用を算出してくれるツール「Infracost」がJetBrainsのマーケットプレイスに登場しました。
 tags:
-  - Tech
+  - 1
   - Terraform
   - Tools
   - IaC

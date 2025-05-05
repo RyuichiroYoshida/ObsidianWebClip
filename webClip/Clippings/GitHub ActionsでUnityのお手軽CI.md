@@ -8,7 +8,7 @@ created: 2025-05-06
 description: こんにちは。カバー株式会社エンジニアのKです。弊チームでは、UnityプロジェクトのビルドにGitHub Actionsを利用しています。GitHub　Actionsは、GitHubにアップロード…
 tags:
   - CI-CD
-  - Tech
+  - 1
   - Unity
   - Tools
 read: false

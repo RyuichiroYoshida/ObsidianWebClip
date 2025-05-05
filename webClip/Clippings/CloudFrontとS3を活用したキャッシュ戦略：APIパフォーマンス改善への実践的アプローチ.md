@@ -7,7 +7,7 @@ published: 2024-08-20
 created: 2025-05-06
 description: 
 tags:
-  - Tech
+  - 1
   - バックエンド
   - バックエンド設計
   - クラウド

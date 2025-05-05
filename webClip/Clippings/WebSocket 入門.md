@@ -7,7 +7,7 @@ published: 2023-10-09
 created: 2025-05-06
 description: 
 tags:
-  - Tech
+  - 1
   - 通信
   - バックエンド
 read: false

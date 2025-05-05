@@ -7,7 +7,7 @@ published: 2024-07-15
 created: 2025-05-06
 description: はじめに こんにちは、皆さん。今日は、シェルスクリプトを使った高度な自動化のベストプラクティスとパターンについ
 tags:
-  - Tech
+  - 1
   - Tools
   - "#ShellScript"
 read: false

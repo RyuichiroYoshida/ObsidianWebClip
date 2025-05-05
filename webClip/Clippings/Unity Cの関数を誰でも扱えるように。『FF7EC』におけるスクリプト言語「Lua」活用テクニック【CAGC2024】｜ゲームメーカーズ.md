@@ -7,7 +7,7 @@ published:
 created: 2025-05-06
 description: サイバーエージェントのゲーム・エンターテイメント事業部（SGE）初開催のカンファレンス「CyberAgent Game Conference 2024」が、2024年3月7日に開催されました。『FINAL FANTASY VII EVER CRISIS』（以下、『FF7EC』）の掛け合い部分や、ダンジョン中のギミックなどで用いられたLuaスクリプトの活用方法について語られた、アプリボット クライアントエンジニア 佐藤 彩理氏によるセッション「大規模開発におけるLuaスクリプトの活用方法」をレポートします。
 tags:
-  - Tech
+  - 1
   - Unity
   - "#Lua"
 read:

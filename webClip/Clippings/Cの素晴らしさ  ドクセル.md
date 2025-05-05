@@ -9,7 +9,7 @@ description: ドクセルはスライドやPDFをかんたんに共有できる�
 tags:
   - CSharp
   - 思想系
-  - Tech
+  - 1
 read: false
 ---
 106.2K Views

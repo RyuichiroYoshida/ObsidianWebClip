@@ -8,7 +8,7 @@ created: 2025-05-06
 description: "プログラミング言語Go完全入門 @tenntenn プログラミング言語Go完全入門の資料を用いて、Gopher道場の講義を始めていきたいと思います。 スライドはこのURLから閲覧できます。 スライドURL: http://tenn.in/go"
 tags:
   - Go
-  - Tech
+  - 1
   - バックエンド
 read: false
 ---

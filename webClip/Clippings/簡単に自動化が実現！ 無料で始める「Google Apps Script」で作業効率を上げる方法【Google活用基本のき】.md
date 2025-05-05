@@ -7,7 +7,7 @@ published: 2025-01-15
 created: 2025-05-06
 description: 毎日のルーチンワークが負担になっていませんか？ 「もっと効率よくできないか……」と感じることは、誰しもが一度はあるでしょう。そんな悩みを解決してくれるのがGoogle Apps Scriptです。プログラミングの経験がな…
 tags:
-  - Tech
+  - 1
   - Tools
   - "#GAS"
 read: false

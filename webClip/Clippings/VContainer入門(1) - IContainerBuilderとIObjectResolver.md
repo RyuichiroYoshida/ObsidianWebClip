@@ -7,7 +7,7 @@ published: 2021-06-05
 created: 2025-05-06
 description: この記事についてUnity用のDIコンテナであるVCointanerの使い方を解説します。DIコンテナを使うと複雑な依存関係を楽に管理できるようになります。DI(DependencyInject…
 tags:
-  - Tech
+  - 1
   - Tools
   - Unity
   - 設計

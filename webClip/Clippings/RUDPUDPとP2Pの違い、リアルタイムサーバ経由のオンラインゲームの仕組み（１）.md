@@ -7,7 +7,7 @@ published:
 created: 2025-05-06
 description: RUDPとは「ReliableUDP(User Datagram Protocol)」の略で、リアルタイム通信に用いられる通信プロトコルの１つです。UDPのような高速通信を重視する特徴を持ちながら、メッセージ再送による高品質・信頼性の確保を実現できます。従来の電信機から現在のオンライン通話に至るまで、実用された技術の革新・普及は目を瞠るほど飛躍的でした。その裏にはUDP、TCP、RUDP、P2Pなどといった通信プロトコルの活用があります。
 tags:
-  - Tech
+  - 1
   - 通信
   - バックエンド
 read: false

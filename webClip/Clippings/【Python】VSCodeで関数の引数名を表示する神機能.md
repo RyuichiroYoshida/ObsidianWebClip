@@ -7,7 +7,7 @@ published: 2024-09-26
 created: 2025-05-06
 description: 結論引数が多くて、わかりずらかったコードが↓このように、引数の名前が表示されることでめちゃくちゃわかりやすくなります！設定方法設定方法は、設定からPython Analysis Inlay…
 tags:
-  - Tech
+  - 1
   - Python
   - "#VSCode"
   - Tools

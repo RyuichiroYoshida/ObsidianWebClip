@@ -8,7 +8,7 @@ created: 2025-05-06
 description: はじめにUnityのWebGLビルドを経験された方はご存じだと思いますが、プロジェクトサイズによってはそれなりの時間がかかります。ビルド中は手元のPCに負荷がかかってしまったり、毎回のデプロ…
 tags:
   - CI-CD
-  - Tech
+  - 1
   - Tools
   - Unity
 read: false

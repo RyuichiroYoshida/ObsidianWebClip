@@ -7,7 +7,7 @@ published:
 created: 2025-05-06
 description: TechTargetは「『Cypress』と『Playwright』の違い」に関する記事を公開した。利用可能な多くの自動テストツールの中でも、「Cypress」と「Playwright」は特に注目すべきツールだ。
 tags:
-  - Tech
+  - 1
   - QA
 read: false
 ---

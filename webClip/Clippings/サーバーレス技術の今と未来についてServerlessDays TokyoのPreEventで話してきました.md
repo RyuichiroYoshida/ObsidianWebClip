@@ -7,7 +7,7 @@ published: 2024-09-20
 created: 2025-05-06
 description: 𝕏にURL貼れなくなっているので、Zennにもマルチポストしています。 ServerlessDays Tokyo 2024 PreEvent 2024-09-21のServerlessDays Tokyo 2024にむけて、去年に引き続き、直前イベントでサーバーレス技術の今と未来について話してきました。 いよいよ明日からメインイベントですので参加お待ちしています！ Serverless Update 2024 文字起こし スライド全体はDocswellさんで公開しています。 PreEventはYouTubeでアーカイブがあります。 サーバーレスのおさらい 「サーバーレス」は、誤解を招きやすい技…
 tags:
-  - Tech
+  - 1
   - クラウド
   - インフラ
 read: false

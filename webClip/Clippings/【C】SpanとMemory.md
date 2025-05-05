@@ -9,7 +9,7 @@ description: 今回の記事はC#のSpanとMemoryについて。 現代のC#で�
 tags:
   - CSharp
   - 設計
-  - Tech
+  - 1
   - QA
 read:
 ---

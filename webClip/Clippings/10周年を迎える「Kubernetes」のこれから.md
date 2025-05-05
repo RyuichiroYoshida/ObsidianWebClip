@@ -7,7 +7,7 @@ published: 2024-06-06
 created: 2025-05-06
 description: コンテナーオーケストレーションのデファクトスタンダードであるグーグルの「Kubernetes」が10周年を迎えた。クラウドネイティブコンピューティングの進化とともに、Kubernetesは今後、どのような方向に進んでいくのだろうか。
 tags:
-  - Tech
+  - 1
   - Tools
   - "#Kubernetes"
 read:

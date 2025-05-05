@@ -8,7 +8,7 @@ created: 2025-05-06
 description: こんにちは。Cacooチームの木村です。以前プルリクを起点に検証環境が自動で構築されるようにしたら
 tags:
   - CI-CD
-  - Tech
+  - 1
   - Kubernetes
   - バックエンド
 read: false

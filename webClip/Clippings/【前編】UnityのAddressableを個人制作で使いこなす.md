@@ -8,7 +8,7 @@ created: 2025-05-06
 description: こんにちは、やまだたいし( https://twitter.com/OrotiYamatano )です。 UnityのAddressablesを個人でも導入したいと思い今回はそれの備忘録です。 目次 Addressablesを個人でも導入したいわけ そもそもAddressablesとはなにか? どうやって管理していくか ダウンロード 初期設定 AddressableAssetSettings Profile(プロファイル) Diagnostics (診断) Catalog (カタログ) Update a Previous Build(ビルド更新設定) Downloads (ダウンロード) Bu…
 tags:
   - CSharp
-  - Tech
+  - 1
   - 設計
   - Unity
 read: false

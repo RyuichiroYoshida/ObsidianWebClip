@@ -7,7 +7,7 @@ created: 2025-05-06
 description: Unityプロジェクトにおいて現状どのようにGitHub Actionsを活用しているかを紹介します
 tags:
   - CI-CD
-  - Tech
+  - 1
   - Tools
   - Unity
 read: false

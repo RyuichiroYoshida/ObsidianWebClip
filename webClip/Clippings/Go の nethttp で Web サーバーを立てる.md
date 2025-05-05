@@ -8,7 +8,7 @@ created: 2025-05-06
 description: 基本のコードマルチプレクサとして DefaultServeMux を使用し、http.HandlerFunc() でハンドラを付与していきます。package mainimport (	"fm…
 tags:
   - Go
-  - Tech
+  - 1
   - バックエンド
   - 通信
 read: false

@@ -8,7 +8,7 @@ created: 2025-05-06
 description: この記事は、2024年6月24日(月)に行われた社内IaC勉強会における発表を、さくナレ編集部にて記事化したものです。 目次はじめにterraform (plan|apply)を実行する際のポイントtfstateの管理t […]
 tags:
   - CI-CD
-  - Tech
+  - 1
   - Terraform
   - クラウド
   - バックエンド

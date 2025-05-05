@@ -8,7 +8,7 @@ created: 2025-05-06
 description: 開発用適当ツールとは？開発していると、たまに何かしらプロジェクト内で開発者用や運用者用にテストデータを作成したり、DBやAPIに繋いでCSVやExcelを出したりする名もなきツールが大量に必要にな…
 tags:
   - Go
-  - Tech
+  - 1
   - Tools
 read: false
 ---

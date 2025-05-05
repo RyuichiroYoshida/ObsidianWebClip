@@ -7,7 +7,7 @@ published: 2024-03-09
 created: 2025-05-06
 description: はじめに機械学習をUnityゲーム上に持ち出したいとき、機械学習部分をどうしてもPythonで動かしたいとき、ありますよね。 （機械学習界隈がよりによってPythonの砂の城の上で遊んでいるため）そこで…
 tags:
-  - Tech
+  - 1
   - Python
   - "#Unity"
   - "#通信"

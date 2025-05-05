@@ -8,7 +8,7 @@ created: 2025-05-06
 description: "##　はじめにGoで圧倒的人気を誇るWebフレームワークのGinを使ってREST APIを爆速で構築するための入門です。コードはginのREADMEドキュメントを元にしています。https:/…"
 tags:
   - Go
-  - Tech
+  - 1
   - Tools
   - バックエンド
   - 学習系

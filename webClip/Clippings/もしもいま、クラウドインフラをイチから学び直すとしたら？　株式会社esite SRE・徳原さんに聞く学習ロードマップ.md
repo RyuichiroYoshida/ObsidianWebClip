@@ -7,7 +7,7 @@ published: 2024-09-17
 created: 2025-05-06
 description: 株式会社estieのSRE/Platfrom Engineering・徳原さんが、自らの経験とともに最新のインフラ技術学習の戦略を詳解。クラウド環境での効率的な学び方と重要ポイントを伝授します。
 tags:
-  - Tech
+  - 1
   - クラウド
   - インフラ
   - 学習系

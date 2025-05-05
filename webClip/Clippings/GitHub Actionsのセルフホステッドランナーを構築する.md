@@ -8,7 +8,7 @@ created: 2025-05-06
 description: "使用技術GitHub ActionsGitHubが提供しているCI/CDGitHubにシームレスに統合されており、GitHubとの親和性が高いGitHub: https://github.c…"
 tags:
   - CI-CD
-  - Tech
+  - 1
   - Tools
 read: false
 ---

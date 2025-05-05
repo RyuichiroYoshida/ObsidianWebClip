@@ -7,7 +7,7 @@ published: 2023-10-09
 created: 2025-05-06
 description: NotionのAPIを実装して試してみました。
 tags:
-  - Tech
+  - 1
   - Tools
   - TS
   - Notion

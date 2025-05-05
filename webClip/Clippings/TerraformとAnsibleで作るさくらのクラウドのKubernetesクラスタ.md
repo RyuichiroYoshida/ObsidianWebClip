@@ -7,7 +7,7 @@ published: 2024-08-29
 created: 2025-05-06
 description: CAMPHOR-の上田蒼一朗です。今回は「TerraformとAnsibleで作るさくらのクラウドのKubernetesクラスタ」というテーマでお話しします。よろしくお願いします。 目次自己紹介CAMPHOR-とはCAM […]
 tags:
-  - Tech
+  - 1
   - Terraform
   - インフラ
   - クラウド

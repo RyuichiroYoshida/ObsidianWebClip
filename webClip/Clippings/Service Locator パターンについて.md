@@ -7,7 +7,7 @@ published: 2019-05-29
 created: 2025-05-06
 description: 会社にて「Service Locator パターン」という単語を聞いて「？」となったので、戒めも含めて調べてみたメモ。いきなり結論結論から言うと、Service Locator パターンも De…
 tags:
-  - Tech
+  - 1
   - 設計
 read:
 ---

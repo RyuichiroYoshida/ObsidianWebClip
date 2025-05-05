@@ -8,7 +8,7 @@ created: 2025-05-06
 description: 弊社ではGitHub Actionsの登場以前からCI/CDを行っていることもあり、CI環境としてはCircleCIが標準となっています。とはいえ開発の中心はやはりGitHubであり、GitHub上で自己完結できるという点において、GitHub Actionsの優位性は見逃せません。 今まで筆者は「CircleCIでやってたこの機能は、GitHub Actionsではどうやるんだろう?」といった視点で、都度検索することが多かったのですが、そういうやり方では知識が横方向に広がらないのですよね。もしかしたらもっと便利な機能があったり、やってはいけないアンチパターンがあるかもしれないのに、ピンポイン…
 tags:
   - CI-CD
-  - Tech
+  - 1
 read: false
 ---
 日本仮想化技術がお届けする「とことんDevOps」では、DevOpsに関する技術情報や、日々のDevOps業務の中での検証結果、TipsなどDevOpsのお役立ち情報をお届けします。  

@@ -7,7 +7,7 @@ published: 2021-09-04
 created: 2025-05-06
 description: 最近terraformを使う機会があったのでメモがてら残しておこうと思います。対象者terraformに興味はあるが実際に触ったことがない人IaCを触ってみたい人大雑把にterraformの…
 tags:
-  - Tech
+  - 1
   - Terraform
   - バックエンド
   - クラウド

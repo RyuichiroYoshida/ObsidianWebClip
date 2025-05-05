@@ -7,7 +7,7 @@ published: 2018-02-20
 created: 2025-05-06
 description: DiscordのBotをC#で作ってみる開発環境Visual Studio 2017 (C#)Discord.Net 1.0.2初めにスプラトゥーン2のAPIをコールするBotを@otuh…
 tags:
-  - Tech
+  - 1
   - CSharp
   - アプリ
   - "#Discord"

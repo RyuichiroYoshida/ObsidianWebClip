@@ -7,7 +7,7 @@ published: 2022-03-03
 created: 2025-05-06
 description: クラウドサービスの中では、Microsoft が提供する「Azure」と Amazon が提供する「AWS」がよく知られており、シェアでトップの AWS を、2位の Azure が猛追しています。Azure と AWS にはそれぞれ特徴や強みがあるため、自社の環境や用途に応じて適切なサービスを選択することが望まれます。
 tags:
-  - Tech
+  - 1
   - バックエンド設計
   - クラウド
 read: false

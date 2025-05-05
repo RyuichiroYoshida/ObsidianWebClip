@@ -8,7 +8,7 @@ created: 2025-05-06
 description: はじめにLua好きですか？ええ、そうですよね、好きでも嫌いでもないですよね。わかります。Luaが好きで好きでしょうがないという人はいません。ごめん、言い過ぎた。大抵は自分の使っているアプリのス…
 tags:
   - Lua
-  - Tech
+  - 1
 read:
 ---
 ![](https://relay-dsp.ad-m.asia/dmp/sync/bizmatrix?pid=c3ed207b574cf11376&d=x18o8hduaj&uid=3551653)

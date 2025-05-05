@@ -8,7 +8,7 @@ created: 2025-05-06
 description: はじめにハッカソンでUnityとPhotonを使ってゲームを作ったのですが、その際にPhoton周りでうまく動作しないとうことが多く起こっていました。それがきっかけで、Unityのようなゲームエ…
 tags:
   - Rust
-  - Tech
+  - 1
   - 通信
   - Unity
   - バックエンド

@@ -8,7 +8,7 @@ created: 2025-05-06
 description: はじめにroslynのリポジトリを見ていたら、dotnet-formatなるツールがあって、ちょうど良さそうなツールだったので紹介してみる。なぜ必要か昨今IDEの発達により、ソースコードのかな…
 tags:
   - CSharp
-  - Tech
+  - 1
   - Tools
   - QA
 read: false

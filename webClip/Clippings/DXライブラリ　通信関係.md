@@ -7,7 +7,7 @@ created: 2025-05-06
 description: ConnectNetWork　他マシンに接続する   int ConnectNetWork(IPDATA IPData);LANやインターネット等で繋がっている他のマシンと通信状態を確立します。接続先のマシンはIPアドレスを使って指定します。接続に成功した場合はネットワークハンドルを、失敗した場合は-1を返します。CloseNetWork　接続を終了する   int CloseNetWork(int NetHandle);ConnectNetWork関数で確立した接続状態を終了し、データの送受信を終了します。Prepa...
 tags:
   - Cpp
-  - Tech
+  - 1
   - バックエンド
   - 通信
 read: false

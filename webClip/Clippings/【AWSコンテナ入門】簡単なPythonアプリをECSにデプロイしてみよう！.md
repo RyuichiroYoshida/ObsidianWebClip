@@ -9,7 +9,7 @@ description: 8/17 20:16更新： 記事全体を大幅に更新しました！�
 tags:
   - Docker
   - Python
-  - Tech
+  - 1
   - クラウド
   - インフラ
 read: false

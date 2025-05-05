@@ -7,7 +7,7 @@ published:
 created: 2025-05-06
 description: こんにちは！情熱開発部の金澤です！ 年も明けて寒さが厳しくなってきましたが、皆様いかがお過ごしでしょ [...]<p><a class="btn btn-secondary understrap-re
 tags:
-  - Tech
+  - 1
   - "#Cpp"
   - 通信
   - バックエンド

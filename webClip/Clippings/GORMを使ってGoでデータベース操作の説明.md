@@ -8,7 +8,7 @@ created: 2025-05-06
 description: はじめにGORM（Go Object-Relational Mapping）は、Go言語で開発されたオープンソースのORM（Object-Relational Mapping）ライブラリです。デー…
 tags:
   - Go
-  - Tech
+  - 1
   - バックエンド
   - "#データベース"
 read: false

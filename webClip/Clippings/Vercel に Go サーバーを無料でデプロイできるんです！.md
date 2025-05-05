@@ -8,7 +8,7 @@ created: 2025-05-06
 description: 
 tags:
   - Go
-  - Tech
+  - 1
   - バックエンド
   - クラウド
 read: false

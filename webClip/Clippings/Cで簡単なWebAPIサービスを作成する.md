@@ -8,7 +8,7 @@ created: 2025-05-06
 description: 1. はじめにOpenAPIver3に対応したAPIを開発したいC# ASP.NETCore WebAPIを使用したいSwaggerで動作検証をしたい2. 開発環境Visual Studi…
 tags:
   - CSharp
-  - Tech
+  - 1
   - アプリ
   - バックエンド
   - 通信

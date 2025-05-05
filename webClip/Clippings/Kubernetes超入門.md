@@ -8,7 +8,7 @@ created: 2025-05-06
 description: はじめにこの記事では、「CA 1Day Youth Boot Camp バックエンド/インフラエンジニア編：現場で使うコンテナ技術、Kubernetes＆コンテナ入門(2021/11/24開催)」…
 tags:
   - Kubernetes
-  - Tech
+  - 1
   - バックエンド
   - クラウド
 read: false

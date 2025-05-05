@@ -7,7 +7,7 @@ published: 2020-02-20
 created: 2025-05-06
 description: はじめにSlackAPIを初めて使う方向けの、SlackAPIの権限設定からデバッグまでのメモです。おおまかな流れは、１．Token（特定のSlackチャンネルにアクセスするキー情報）の発行…
 tags:
-  - Tech
+  - 1
   - "#Slack"
   - Tools
   - バックエンド

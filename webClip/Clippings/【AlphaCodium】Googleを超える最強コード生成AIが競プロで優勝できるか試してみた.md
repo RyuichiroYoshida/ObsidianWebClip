@@ -7,7 +7,7 @@ published: 2024-04-02
 created: 2025-05-06
 description: WEELメディア事業部LLMリサーチャーの中田です。 1月16日、LLMによる高度なプログラミングコード生成を可能にするプロンプトエンジニア「AlphaCodium」を、CodiumAIが提案しました。 この手法を用いることで、従来のプロン
 tags:
-  - Tech
+  - 1
   - Tools
   - "#AI"
 read:

@@ -9,7 +9,7 @@ description:
 tags:
   - CI-CD
   - Discord
-  - Tech
+  - 1
   - Tools
   - バックエンド
 read: false

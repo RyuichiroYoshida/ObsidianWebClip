@@ -7,7 +7,7 @@ published: 2024-10-17
 created: 2025-05-06
 description: はじめにこの記事では、Go言語のGin Web FrameworkとBun ORMを用いてWeb API作成する際に、その一助となる記事になることを目指しています。Go言語のはじめの一歩としては…
 tags:
-  - Tech
+  - 1
   - Go
   - バックエンド
   - 通信

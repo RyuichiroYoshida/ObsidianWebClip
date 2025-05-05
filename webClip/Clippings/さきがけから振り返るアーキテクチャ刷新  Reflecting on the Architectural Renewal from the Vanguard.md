@@ -7,7 +7,7 @@ published:
 created: 2025-05-06
 description: "Developer Summit 2024 Summer でお話ししたスライドですProposal: https://event.shoeisha.jp/devsumi/20240723/session/5099# URLYouTube: https://www.youtube.co…"
 tags:
-  - Tech
+  - 1
   - バックエンド
   - バックエンド設計
   - リファクタリング

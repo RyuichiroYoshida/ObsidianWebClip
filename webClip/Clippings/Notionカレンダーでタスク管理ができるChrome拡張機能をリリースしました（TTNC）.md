@@ -8,7 +8,7 @@ created: 2025-05-06
 description: Notion カレンダーと連携してタスク管理・スケジュール管理がスムーズになるChrome 拡張機能 TTNC（Task Tracker by Notion Calendar）を開発してリリースしました。アプリを無料でインストールするだけで、Notion カレンダー上からワンクリックでタスクの「開始」「終了」がで...
 tags:
   - Tools
-  - Tech
+  - 1
   - "#Notion"
 read: false
 ---

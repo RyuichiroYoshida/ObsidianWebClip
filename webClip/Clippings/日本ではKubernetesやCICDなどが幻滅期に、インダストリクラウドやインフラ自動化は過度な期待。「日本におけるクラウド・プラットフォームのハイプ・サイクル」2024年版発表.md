@@ -9,7 +9,7 @@ tags:
   - Kubernetes
   - CI-CD
   - 思想系
-  - Tech
+  - 1
   - インフラ
   - クラウド
 read: false

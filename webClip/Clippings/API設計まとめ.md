@@ -8,7 +8,7 @@ created: 2025-05-06
 description: はじめに自分は2021年に新卒でWeb系の開発会社にフロントエンジニアとして入社し2022年で2年目になります。実務ではReact×TypeScriptを利用したフロント周りとNode.js(N…
 tags:
   - バックエンド
-  - Tech
+  - 1
   - バックエンド設計
 read: false
 ---

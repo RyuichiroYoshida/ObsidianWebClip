@@ -6,7 +6,7 @@ published:
 created: 2025-05-06
 description: APIエンドポイントはAPI接続の端点で、API呼び出しを受信するところです。APIエンドポイント認証について学びましょう。
 tags:
-  - Tech
+  - 1
   - バックエンド
   - 通信
 read: false

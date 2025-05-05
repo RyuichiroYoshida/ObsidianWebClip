@@ -8,7 +8,7 @@ published:
 created: 2025-05-06
 description: Kubernetes の利用シーンは幅広い用途に広がり、長期計画でカスタムアプリケーションを開発してデプロイする以外にも、ぱっと cluster にアプリケーションを入れて使ってみるといったことも多く見られるようになりました。単純なアプリケーションでは kubectl apply で済むものも多いですが、じゃっかん複 …
 tags:
-  - Tech
+  - 1
   - Tools
   - Kubernetes
   - バックエンド

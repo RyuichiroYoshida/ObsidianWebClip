@@ -7,7 +7,7 @@ published: 2025-03-14
 created: 2025-05-06
 description: はじめに[ ? -ne 0 ] は冗長でデメリットしかありません。非常に多く見かける書き方ですが、1979 年に Bourne シェルが広く公開された時からこのよう…
 tags:
-  - Tech
+  - 1
   - ShellScript
   - 思想系
   - リファクタリング

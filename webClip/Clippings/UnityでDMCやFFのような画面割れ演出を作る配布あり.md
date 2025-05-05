@@ -7,7 +7,7 @@ published: 2023-11-06
 created: 2025-05-06
 description: はじめにこの記事はLife is Tech！Members Advent Calendar 2020、17日目の記事です。デビルメイクライ4のゲームオーバー画面や、FFXの戦闘移行演出のような画…
 tags:
-  - Tech
+  - 1
   - Unity
   - "#Effect"
 read:

@@ -7,7 +7,7 @@ created: 2025-05-06
 description: DIという観点からコードの設計を考える本
 tags:
   - Books
-  - Tech
+  - 1
   - 設計
 read: false
 ---

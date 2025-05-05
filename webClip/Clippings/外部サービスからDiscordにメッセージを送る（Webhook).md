@@ -10,7 +10,7 @@ tags:
   - CI-CD
   - Discord
   - JS
-  - Tech
+  - 1
   - Tools
   - TS
   - バックエンド

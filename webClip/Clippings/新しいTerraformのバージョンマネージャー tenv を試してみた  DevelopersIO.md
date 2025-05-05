@@ -7,7 +7,7 @@ published: 2025-05-08
 created: 2025-05-06
 description: 
 tags:
-  - Tech
+  - 1
   - Terraform
   - 思想系
   - IaC

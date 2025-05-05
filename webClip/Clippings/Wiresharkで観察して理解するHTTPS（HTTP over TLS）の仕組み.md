@@ -7,7 +7,7 @@ published: 2024-07-01
 created: 2025-05-06
 description: はじめに HTTPS(HTTP Over TLS)とは SSL/TLS HTTPSの流れ 実際に通信を観察 自己署名証明書の用意 サーバーの作成 WireSharkの準備 リクエストを送信して観察 まとめ
 tags:
-  - Tech
+  - 1
   - Tools
   - 通信
   - セキュリティ

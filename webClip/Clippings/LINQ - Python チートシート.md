@@ -9,7 +9,6 @@ description:
 tags:
   - Python
   - "#CSharp"
-  - "#Tech"
   - 設計
 read:
 ---

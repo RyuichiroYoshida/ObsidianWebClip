@@ -7,7 +7,7 @@ published: 2024-09-01
 created: 2025-05-06
 description: ANGEL Calendar開幕！2024年ANGEL Dojo参加者用アドベントカレンダー「ANGEL Calendar」スタートしました〜！ https://qiita.com/har1101…
 tags:
-  - Tech
+  - 1
   - インフラ
   - クラウド
 read: false

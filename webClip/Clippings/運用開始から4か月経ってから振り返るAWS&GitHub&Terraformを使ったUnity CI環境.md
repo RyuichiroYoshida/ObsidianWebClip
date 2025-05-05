@@ -8,7 +8,7 @@ created: 2025-05-06
 description: エンジニアの岡村です。 このテックブログでは以前、AWS EC2でUnity環境を立ち上げ、GitHub ActionsのCI環境を構築する記事シリーズを投稿しました。 synamon.hatenablog.com synamon.hatenablog.com synamon.hatenablog.com synamon.hatenablog.com 今回、それの運用が始まってから4か月程度が経過したので、あれから変化があったことを簡単に今回の記事に纏めました。 今の状態 運用開始からこれまでにあった主な出来事 帯域の問題の解決、及びビルド時間の高速化 github/cache-actionの…
 tags:
   - CI-CD
-  - Tech
+  - 1
   - Terraform
   - クラウド
   - Unity

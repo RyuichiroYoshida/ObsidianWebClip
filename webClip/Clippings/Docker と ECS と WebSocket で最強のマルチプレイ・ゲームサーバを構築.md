@@ -7,7 +7,7 @@ published:
 created: 2025-05-06
 description: 第1回　Gaming Tech Night にて発表した資料です。http://gamingtechnight.connpass.com/event/34249/
 tags:
-  - Tech
+  - 1
   - Docker
   - クラウド
   - バックエンド

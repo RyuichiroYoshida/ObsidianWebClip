@@ -7,7 +7,7 @@ published:
 created: 2025-05-06
 description: HTTPプロトコルの概要を知るための超入門連載（全3回）。今回は、HTTPプロトコルの概要と規格について説明する。
 tags:
-  - Tech
+  - 1
   - バックエンド
   - 通信
 read: false

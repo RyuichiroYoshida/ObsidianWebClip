@@ -8,6 +8,6 @@ created: 2025-05-06
 description: Jenkinsはゲーム開発の現場ではよく使われています。このあたり、ゲーム開発環境の事情が大きく絡んでいるようです。
 tags:
   - CI-CD
-  - Tech
+  - 1
 read: false
 ---

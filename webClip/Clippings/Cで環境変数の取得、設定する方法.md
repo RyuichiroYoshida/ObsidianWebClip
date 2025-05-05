@@ -7,7 +7,7 @@ published: 2022-09-08
 created: 2025-05-06
 description: 実行環境.Net6.0Visual Studio Version 17.3.0 Preview 5.0プログラム内での環境変数の取得と設定方法以下で環境変数の取得と設定ができます。public static void Main(string...
 tags:
-  - Tech
+  - 1
   - CSharp
   - セキュリティ
 read:

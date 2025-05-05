@@ -9,7 +9,7 @@ description: コード整形していますか？複数人数でコードを書�
 tags:
   - CI-CD
   - QA
-  - Tech
+  - 1
   - Tools
 read: false
 ---
