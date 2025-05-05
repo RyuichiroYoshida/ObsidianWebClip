@@ -1,28 +1,16 @@
 ---
-title: "うさぎでもわかるObsidian"
-source: "https://zenn.dev/taku_sid/articles/20250428_obsidian_note"
+title: うさぎでもわかるObsidian
+source: https://zenn.dev/taku_sid/articles/20250428_obsidian_note
 author:
   - "[[Zenn]]"
 published: 2025-04-28
 created: 2025-05-06
-description:
+description: 
 tags:
-  - "clippings"
-  - "tools"
-title: "うさぎでもわかるObsidian"
-source: "https://zenn.dev/taku_sid/articles/20250428_obsidian_note"
-author:
-  - "[[Zenn]]"
-published: 2025-04-28
-created: 2025-05-06
-description:
-tags:
-  - "clippings"
+  - clippings
+  - tools
+  - obsidian
 ---
-4
-
-1[tech](https://zenn.dev/tech-or-idea)
-
 こんにちは！今日はうさぎさんでも理解できる「Obsidian（オブシディアン）」というノートアプリについてお話しするぴょん！
 
 Obsidianは知識管理のための強力なツールで、「第二の脳」を構築するのに最適なアプリです。マークダウン形式のテキストファイルを使って知識のネットワークを作り上げることができるんですよ。

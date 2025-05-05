@@ -4,64 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b15be573b233cb1e",
+        "id": "4193fefa54f0b13f",
         "type": "tabs",
         "children": [
           {
-            "id": "2e81ff650e9066ef",
+            "id": "1c7484527da5ae8c",
             "type": "leaf",
             "state": {
-              "type": "thino_view",
+              "type": "empty",
               "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "9ba3ec9aae8bba5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-05-03.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "2025-05-03"
-            }
-          },
-          {
-            "id": "272c52d05109a5e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/うさぎでもわかるObsidian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "うさぎでもわかるObsidian"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "f8c44c7b15403659",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bee16f8a700248f4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Surfing"
+              "title": "新規タブ"
             }
           }
         ]
@@ -96,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +122,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -212,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -232,17 +185,43 @@
       "marp-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
-      "obsidian-read-it-later:ReadItLater: Create from clipboard": false
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bee16f8a700248f4",
+  "active": "1c7484527da5ae8c",
   "lastOpenFiles": [
+    "ChatGPT/Obsidian Plugin作成方法.md",
+    "Clippings/2024年版　Obsidianコミュニティプラグイン個人的レビュー.md",
+    "Clippings/Template.md",
+    "Excalidraw/Drawing 2025-05-06 01.31.40.excalidraw.md",
+    "Excalidraw",
+    "Clippings/Title.md",
     "Clippings/うさぎでもわかるObsidian.md",
-    "Clippings",
-    "2025-05-03.md",
-    "2025-05-06.md",
-    "無題のファイル.md",
+    "Clippings/Obsidianをプラグインでもっと便利に！.md",
+    "ChatGPT",
     "Welcome.md",
+    "ChatGPT メモ.md",
+    "ChatGPT メモ",
+    "Zenn.md",
+    "2025-05-06.md",
+    "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-AYxwxGRHDV.png",
+    "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-43XYCnmDRt.png",
+    "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-DsnsNYXLg2.png",
+    "ReadItLater Inbox/Obsidianをプラグインでもっと便利に！ - Qiita.md",
+    "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-6CWE00IlpD.png",
+    "ReadItLater Inbox/Note 2025-05-06 01-19-39.md",
+    "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-ga9jBF6ddu.png",
+    "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-Kykjj6ZRB3.png",
+    "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-JfeqPUg9Mc.png",
+    "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-ZOptWkzro7.png",
+    "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-I775elbGOx.png",
+    "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-OTW9SE7JJc.png",
+    "ReadItLater Inbox/assets",
+    "ReadItLater Inbox/Note 2025-05-06 01-19-58.md",
+    "ReadItLater Inbox",
+    "2025-05-03.md",
+    "Clippings",
     "無題のカンバン.md",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas"
