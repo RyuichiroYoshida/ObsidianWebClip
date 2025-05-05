@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4193fefa54f0b13f",
+        "id": "9aadbebc2acf2779",
         "type": "tabs",
         "children": [
           {
-            "id": "1c7484527da5ae8c",
+            "id": "fa18f62319bde429",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Docker と ECS と WebSocket で最強のマルチプレイ・ゲームサーバを構築.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Docker と ECS と WebSocket で最強のマルチプレイ・ゲームサーバを構築"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Python",
+                "query": "tag:#Pod作成時に変更",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,28 +193,41 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1c7484527da5ae8c",
+  "active": "cde12d56a6dca16e",
   "lastOpenFiles": [
-    "ChatGPT/Obsidian Plugin作成方法.md",
-    "Clippings/2024年版　Obsidianコミュニティプラグイン個人的レビュー.md",
-    "Clippings/Template.md",
-    "Excalidraw/Drawing 2025-05-06 01.31.40.excalidraw.md",
+    "Clippings/API設計まとめ.md",
+    "Clippings/Docker と ECS と WebSocket で最強のマルチプレイ・ゲームサーバを構築.md",
+    "Clippings/もしもいま、RubyRailsをイチから学び直すとしたら？　Ruby技術書著者・五十嵐 邦明さんに聞いた学習ロードマップ.md",
+    "Clippings/テスト自動化に取り組みたいなら知っておきたい「Cypress」と「Playwright」の違い.md",
+    "Clippings/【2024年最新版】0からReactを勉強するならこのロードマップに従え！.md",
+    "Clippings/Webアプリ開発におけるE2Eテストとは？　ほかのテストとの違いやE2Eテストをどう利用すべきかを解説.md",
+    "Clippings/AWS Lambdaを最大限に活用するためのベストプラクティス.md",
+    "Clippings/知らないと後悔する最強のエンジニア勉強法.md",
+    "Clippings/KubernetesのJobを使ってプルリクを起点に検証環境が自動で構築される仕組みを改善した話.md",
+    "Clippings/単体テストの考え方使い方を読んだ。読んでよかった。.md",
+    "Clippings/食べログノートでWebSocket不要の(ほぼ)リアルタイム更新を実現した話.md",
+    "Clippings/アンチパターンで学ぶDB設計.md",
+    "Clippings/Notionカレンダーでタスク管理ができるChrome拡張機能をリリースしました（TTNC）.md",
+    "Clippings/Notion APIを使って実践向け実装.md",
+    "Clippings/Kubernetes超入門.md",
+    "Clippings/実践ARMアーキテクチャ移行.md",
+    "Clippings/【2024年版】MIXI 新卒向け技術研修の資料・動画を公開しました！.md",
+    "Clippings/5分で分かるTerraform（Infrastructure as Code）  LAC WATCH.md",
+    "Clippings/Infrastructure as Code (IaC) とは？をわかりやすく解説.md",
+    "Clippings/terraform (planapply) in GitHub Actions.md",
+    "Clippings/マイクロサービスで「APIゲートウェイを使わない方がよい」のはどんなときか.md",
+    "Clippings/効率的なデータ運用の鍵、データオーケストレーションとは何か.md",
+    "Clippings/ドメイン駆動設計の実践.md",
+    "Clippings/さきがけから振り返るアーキテクチャ刷新  Reflecting on the Architectural Renewal from the Vanguard.md",
+    "Clippings/【実践的ユニットテスト入門】今からでも遅くない！ ソフトウェアの最小単位を自動でテストする.md",
+    "Clippings/Unity設計入門：目次.md",
     "Excalidraw",
-    "Clippings/Title.md",
-    "Clippings/うさぎでもわかるObsidian.md",
-    "Clippings/Obsidianをプラグインでもっと便利に！.md",
     "ChatGPT",
-    "Welcome.md",
-    "ChatGPT メモ.md",
     "ChatGPT メモ",
-    "Zenn.md",
-    "2025-05-06.md",
     "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-AYxwxGRHDV.png",
     "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-43XYCnmDRt.png",
     "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-DsnsNYXLg2.png",
-    "ReadItLater Inbox/Obsidianをプラグインでもっと便利に！ - Qiita.md",
     "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-6CWE00IlpD.png",
-    "ReadItLater Inbox/Note 2025-05-06 01-19-39.md",
     "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-ga9jBF6ddu.png",
     "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-Kykjj6ZRB3.png",
     "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-JfeqPUg9Mc.png",
@@ -218,11 +235,8 @@
     "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-I775elbGOx.png",
     "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-OTW9SE7JJc.png",
     "ReadItLater Inbox/assets",
-    "ReadItLater Inbox/Note 2025-05-06 01-19-58.md",
     "ReadItLater Inbox",
-    "2025-05-03.md",
     "Clippings",
-    "無題のカンバン.md",
     "無題のファイル.canvas",
     "無題のファイル 1.canvas"
   ]

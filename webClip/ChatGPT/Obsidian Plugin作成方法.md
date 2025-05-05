@@ -2,8 +2,8 @@
 created: 2025-05-06
 description: Obsidianでのプラグインの作成方法
 tags:
-  - obsidian
-  - tools
+  - Obsidian
+  - Tools
 ---
 
 ```cardlink

@@ -7,9 +7,9 @@ published: 2025-05-04
 created: 2025-05-06
 description: せっかくObsidianとマークダウン記法についての記事を書いたので、実際に使ってみてよかったプラグインのみを紹介しようと思います。実際に使ってみて私が便利と感じたものなので自信はあります！前の…
 tags:
-  - clippings
-  - tools
-  - obsidian
+  - Tools
+  - Obsidian
+read:
 ---
 ![](https://relay-dsp.ad-m.asia/dmp/sync/bizmatrix?pid=c3ed207b574cf11376&d=x18o8hduaj&uid=3551653)
 
@@ -20,8 +20,8 @@ Obsidianとマークダウン記法の使い方をまとめてます。
 
 プラグイン紹介の記事第2弾やその他Obsidian関連の記事も書いたのでそちらもぜひ！
 
-> [Obsidianをプラグインでもっと便利に！！ #初心者向け - Qiita](https://qiita.com/Kei_Adachi/items/888e48405e064c8e1ac3)  
-> [ObsidianのCSSスニペットを使ってメモを見やすく！ #Markdown - Qiita](https://qiita.com/Kei_Adachi/items/d4fd3e0e2421575bf2a0)  
+> [Obsidianをプラグインでもっと便利に！！ 初心者向け - Qiita](https://qiita.com/Kei_Adachi/items/888e48405e064c8e1ac3)  
+> [ObsidianのCSSスニペットを使ってメモを見やすく！ Markdown - Qiita](https://qiita.com/Kei_Adachi/items/d4fd3e0e2421575bf2a0)  
 > [Obsidianのimgタグを置換したい #Python - Qiita](https://qiita.com/Kei_Adachi/items/08741b2394e9747cafe7)
 
 ### 目次

@@ -7,9 +7,9 @@ published: 2025-04-28
 created: 2025-05-06
 description: 
 tags:
-  - clippings
-  - tools
-  - obsidian
+  - Tools
+  - Obsidian
+read: false
 ---
 こんにちは！今日はうさぎさんでも理解できる「Obsidian（オブシディアン）」というノートアプリについてお話しするぴょん！
 

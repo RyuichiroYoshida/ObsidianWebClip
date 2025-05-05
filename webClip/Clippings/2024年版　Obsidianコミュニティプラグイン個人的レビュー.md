@@ -7,9 +7,9 @@ published: 2024-12-07
 created: 2025-05-06
 description: はじめに皆さん、Obsidian使ってますか？https://obsidian.md/Obsidianはマークダウンエディタでありながら、コミュニティプラグインを導入することで様々な機能を追加…
 tags:
-  - clippings
-  - obsidian
-  - tools
+  - Obsidian
+  - Tools
+read: false
 ---
 ![](https://relay-dsp.ad-m.asia/dmp/sync/bizmatrix?pid=c3ed207b574cf11376&d=x18o8hduaj&uid=3551653)
 
