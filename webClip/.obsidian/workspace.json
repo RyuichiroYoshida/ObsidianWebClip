@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "42b05a18156eacb8",
+        "id": "b4dabfc1bddbcd33",
         "type": "tabs",
         "children": [
           {
-            "id": "f0492fd4e0165ab0",
+            "id": "640ed0545bb7a7a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ]
@@ -188,8 +188,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cde12d56a6dca16e",
+  "active": "640ed0545bb7a7a5",
   "lastOpenFiles": [
+    "Clippings/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
     "2025-05-06.md",
     "Template.md",
     "無題のカンバン.md",
@@ -215,7 +216,6 @@
     "Qiita.md",
     "Clippings/GAS×React×TypeScriptによるWebアプリの作り方.md",
     "Clippings/知ってそうで知らないHTTPS.md",
-    "Clippings/「作って学ぶ ブラウザのしくみ」を読んだ.md",
     "Excalidraw",
     "ChatGPT",
     "ChatGPT メモ",
