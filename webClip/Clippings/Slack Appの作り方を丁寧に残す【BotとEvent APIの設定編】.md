@@ -7,7 +7,6 @@ published: 2021-02-03
 created: 2025-05-06
 description: 
 tags:
-  - 1
   - Slack
   - Tools
   - バックエンド

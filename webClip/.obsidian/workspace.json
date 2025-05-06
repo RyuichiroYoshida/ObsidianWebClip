@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1b555949b7b7a14",
+        "id": "42b05a18156eacb8",
         "type": "tabs",
         "children": [
           {
-            "id": "25a20b671a7ef79e",
+            "id": "f0492fd4e0165ab0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Unity",
+                "query": "tag:#Discord",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,7 +164,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -188,8 +188,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "39643f6764988e11",
+  "active": "cde12d56a6dca16e",
   "lastOpenFiles": [
+    "2025-05-06.md",
+    "Template.md",
+    "無題のカンバン.md",
+    "Clippings/SlackAPIを使うまでのメモ.md",
+    "Clippings/【技術Tips】私がRuby on Railsを選んだ理由と学習の参考になるOSSアプリケーション.md",
+    "Clippings/【実践的ユニットテスト入門】ソフトウェア開発における自動テストの位置付けを考察する.md",
+    "Clippings/Cの素晴らしさ  ドクセル.md",
+    "Clippings/DiscordのBotをCで作ってみる.md",
+    "Clippings/terraform (planapply) in GitHub Actions.md",
+    "Clippings/Slack Appの作り方を丁寧に残す【BotとEvent APIの設定編】.md",
+    "Clippings/ちょうぜつソフトウェア設計入門から1年、オブジェクト指向を求めて.md",
     "Clippings/Goパターンとアンチパターン  AppMaster.md",
     "Clippings/Golang開発者のためのクリーンアーキテクチャ.md",
     "Clippings/Golang Golangの設計で気を付けている事.md",
@@ -205,17 +216,6 @@
     "Clippings/GAS×React×TypeScriptによるWebアプリの作り方.md",
     "Clippings/知ってそうで知らないHTTPS.md",
     "Clippings/「作って学ぶ ブラウザのしくみ」を読んだ.md",
-    "Clippings/朝食から学ぶアジャイル開発.md",
-    "Clippings/GitHub Projects で実現する社内資産管理.md",
-    "Clippings/Go初学者へのコードレビューでよくあったコメント20選.md",
-    "Clippings/初心者による初心者のためのRedis解説.md",
-    "Clippings/【QA業務効率化】GAS + Notion APIを用いたテスト進捗報告の自動生成.md",
-    "Clippings/【Go】Goのプロジェクトの雛形を作れるCLIツール「go-blueprint」を使ってみる.md",
-    "Clippings/【Gin】GolangのフレームワークGinの特徴と活用法.md",
-    "Clippings/アプリ開発でGo言語を採用するメリット.md",
-    "Clippings/弊社の「意識ﾁｮｯﾄ低いアーキテクチャ」10選.md",
-    "Clippings/GitHubをコードで管理 ! Terraformを導入して安全な管理を実現しました.md",
-    "Clippings/Go Template の基本的な動作を見てみよう.md",
     "Excalidraw",
     "ChatGPT",
     "ChatGPT メモ",
