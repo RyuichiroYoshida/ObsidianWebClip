@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b4dabfc1bddbcd33",
+        "id": "1ad2d873ac8cfa9d",
         "type": "tabs",
         "children": [
           {
-            "id": "640ed0545bb7a7a5",
+            "id": "a857c2fe3340eacf",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          },
+          {
+            "id": "42d298fd3455c7e0",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Discord",
+                "query": "tag:#Go",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +161,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -173,7 +184,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "surfing:surfing-bookmark-manager": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -185,37 +195,40 @@
       "marp-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
       "obsidian-memos:Thino": false,
+      "surfing:surfing-bookmark-manager": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "640ed0545bb7a7a5",
+  "active": "cde12d56a6dca16e",
   "lastOpenFiles": [
-    "Clippings/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
-    "2025-05-06.md",
-    "Template.md",
-    "無題のカンバン.md",
-    "Clippings/SlackAPIを使うまでのメモ.md",
-    "Clippings/【技術Tips】私がRuby on Railsを選んだ理由と学習の参考になるOSSアプリケーション.md",
-    "Clippings/【実践的ユニットテスト入門】ソフトウェア開発における自動テストの位置付けを考察する.md",
-    "Clippings/Cの素晴らしさ  ドクセル.md",
-    "Clippings/DiscordのBotをCで作ってみる.md",
-    "Clippings/terraform (planapply) in GitHub Actions.md",
-    "Clippings/Slack Appの作り方を丁寧に残す【BotとEvent APIの設定編】.md",
-    "Clippings/ちょうぜつソフトウェア設計入門から1年、オブジェクト指向を求めて.md",
-    "Clippings/Goパターンとアンチパターン  AppMaster.md",
-    "Clippings/Golang開発者のためのクリーンアーキテクチャ.md",
-    "Clippings/Golang Golangの設計で気を付けている事.md",
-    "Clippings/12のソフトウェア・アーキテクチャの落とし穴とその避け方.md",
     "Clippings/📗 なぜ依存を注入するのか DIの原理・原則とパターンを読んだ感想.md",
-    "Clippings/「テスト駆動開発」は時を超える技術。凡人が天才と肩を並べるための秘密兵器【米マイクロソフト・牛尾 剛】 - エンジニアtype  転職type.md",
-    "Clippings/LINQ - Python チートシート.md",
-    "Clippings/Unity Cの関数を誰でも扱えるように。『FF7EC』におけるスクリプト言語「Lua」活用テクニック【CAGC2024】｜ゲームメーカーズ.md",
-    "Clippings/「GitHub CICD実践ガイド」を読んで、GitHub Actionsを始めよう.md",
-    "Zenn.md",
-    "Clippings/【2024年版】MIXI 新卒向け技術研修の資料・動画を公開しました！.md",
-    "Qiita.md",
-    "Clippings/GAS×React×TypeScriptによるWebアプリの作り方.md",
+    "Clippings/食べログノートでWebSocket不要の(ほぼ)リアルタイム更新を実現した話.md",
+    "Clippings/開発用適当ツールはGoで作るのがオススメ.md",
+    "Clippings/運用開始から4か月経ってから振り返るAWS&GitHub&Terraformを使ったUnity CI環境.md",
+    "Clippings/読まないと後悔する技術書30選.md",
+    "Clippings/評価されるエンジニアの特徴とは.md",
+    "Clippings/設計の知識と技能で駆動するソフトウェア開発.md",
+    "Clippings/要領がいい人は、必ず紙に書いている。質のいい仕事をスムーズに進めるための「手書き」の方法.md",
+    "Clippings/簡単に自動化が実現！ 無料で始める「Google Apps Script」で作業効率を上げる方法【Google活用基本のき】.md",
+    "Clippings/第820回　改めてUbuntuに入門したい人向けのUbuntuサーバー講座2024.md",
+    "Clippings/第1回　HTTPプロトコルとは.md",
+    "Clippings/科学的に証明された“脳汁”の正体…大人気パチンコ・海物語は「演出の信頼度が40％っていうのが絶妙」.md",
+    "Clippings/知らないと後悔する最強のエンジニア勉強法.md",
     "Clippings/知ってそうで知らないHTTPS.md",
+    "Clippings/知っておくと仕事が捗る便利ツール17選.md",
+    "Clippings/生産性向上チームを全人類に伝えたい.md",
+    "Clippings/未来を先取り！サーバーレスコンピューティングを徹底解説.md",
+    "Clippings/朝食から学ぶアジャイル開発.md",
+    "Clippings/望ましい自動テストとは｜どのようなテストが開発生産性と開発者体験を共に高めるのか.md",
+    "Clippings/日本ではKubernetesやCICDなどが幻滅期に、インダストリクラウドやインフラ自動化は過度な期待。「日本におけるクラウド・プラットフォームのハイプ・サイクル」2024年版発表.md",
+    "Clippings/新規サービス開発で起こったインフラ移行の舞台裏.md",
+    "Clippings/新しいTerraformのバージョンマネージャー tenv を試してみた  DevelopersIO.md",
+    "Clippings/成果を最速で出すタイパ勉強法.md",
+    "Clippings/弊社の「意識ﾁｮｯﾄ低いアーキテクチャ」10選.md",
+    "Clippings/実践テスト駆動開発を読んだのでモックを使ったロンドン学派的なテストをGoとmoqで考える.md",
+    "Clippings/実践ARMアーキテクチャ移行.md",
+    "Clippings",
+    "無題のファイル.canvas",
     "Excalidraw",
     "ChatGPT",
     "ChatGPT メモ",
@@ -231,8 +244,6 @@
     "ReadItLater Inbox/assets/Obsidianをプラグインでもっと便利に！ - Qiita-OTW9SE7JJc.png",
     "ReadItLater Inbox/assets",
     "ReadItLater Inbox",
-    "Clippings",
-    "無題のファイル.canvas",
     "無題のファイル 1.canvas"
   ]
 }
