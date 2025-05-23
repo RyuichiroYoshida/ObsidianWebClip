@@ -27,7 +27,8 @@
               "title": "Thino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,8 +199,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a857c2fe3340eacf",
+  "active": "4874ee506df11296",
   "lastOpenFiles": [
+    "Template.md",
     "Clippings/TypeScriptで実践するクリーンアーキテクチャ WebからもCLIからも使えるアプリ設計 Speaker Deck.md",
     "Clippings/AIの時代だからこそ、型システムがより厳格な静的型付け言語（GoやRustなど）が良いのでは？.md",
     "Clippings/AWS、オンプレミスでもマルチプレイヤーオンラインゲームのサーバに耐える性能向上を実現した第二世代.md",
@@ -225,7 +227,6 @@
     "Clippings/AWS 情報まとめ Amazon Qiita.md",
     "Clippings/CISSPを1週間で合格するための勉強法 効率的にスコアを上げる実践テクニックを解説.md",
     "Clippings/Terraformを活用したAWSの勉強法.md",
-    "Clippings/2025 業務アプリ向け WinForms 初級 MVPパターン 解説 自動テスト含む CSharp Qiita.md",
     "Clippings",
     "無題のファイル.canvas",
     "Excalidraw",
