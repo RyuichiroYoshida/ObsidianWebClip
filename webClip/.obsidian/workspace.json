@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,8 +199,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cde12d56a6dca16e",
+  "active": "42d298fd3455c7e0",
   "lastOpenFiles": [
+    "Template 1.md",
+    "Template.md",
     "Clippings/📗 なぜ依存を注入するのか DIの原理・原則とパターンを読んだ感想.md",
     "Clippings/食べログノートでWebSocket不要の(ほぼ)リアルタイム更新を実現した話.md",
     "Clippings/開発用適当ツールはGoで作るのがオススメ.md",
@@ -225,8 +227,6 @@
     "Clippings/新しいTerraformのバージョンマネージャー tenv を試してみた  DevelopersIO.md",
     "Clippings/成果を最速で出すタイパ勉強法.md",
     "Clippings/弊社の「意識ﾁｮｯﾄ低いアーキテクチャ」10選.md",
-    "Clippings/実践テスト駆動開発を読んだのでモックを使ったロンドン学派的なテストをGoとmoqで考える.md",
-    "Clippings/実践ARMアーキテクチャ移行.md",
     "Clippings",
     "無題のファイル.canvas",
     "Excalidraw",

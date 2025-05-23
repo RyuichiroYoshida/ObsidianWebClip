@@ -1,0 +1,54 @@
+---
+created: 
+description: 
+tags:
+  - AI
+  - Android
+  - Books
+  - CI-CD
+  - Cpp
+  - CSharp
+  - Discord
+  - Docker
+  - Effect
+  - Flutter
+  - GAS
+  - Git-GitHub
+  - Go
+  - IaC
+  - IOS
+  - JS
+  - Lua
+  - Kubernetes
+  - Notion
+  - Obsidian
+  - Python
+  - QA
+  - Redis
+  - Ruby
+  - Rust
+  - ShellScript
+  - Slack
+  - Terraform
+  - Tools
+  - TS
+  - Ubuntu
+  - UE
+  - UIデザイン
+  - Unity
+  - VSCode
+  - アプリ
+  - インフラ
+  - クラウド
+  - セキュリティ
+  - データベース
+  - ハードウェア
+  - バックエンド
+  - バックエンド設計
+  - フロントエンド
+  - リファクタリング
+  - 学習系
+  - 思想系
+  - 設計
+  - 通信
+---
