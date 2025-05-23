@@ -27,8 +27,7 @@
               "title": "Thino"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,34 +198,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "42d298fd3455c7e0",
+  "active": "a857c2fe3340eacf",
   "lastOpenFiles": [
-    "Template 1.md",
-    "Template.md",
-    "Clippings/📗 なぜ依存を注入するのか DIの原理・原則とパターンを読んだ感想.md",
-    "Clippings/食べログノートでWebSocket不要の(ほぼ)リアルタイム更新を実現した話.md",
-    "Clippings/開発用適当ツールはGoで作るのがオススメ.md",
-    "Clippings/運用開始から4か月経ってから振り返るAWS&GitHub&Terraformを使ったUnity CI環境.md",
-    "Clippings/読まないと後悔する技術書30選.md",
-    "Clippings/評価されるエンジニアの特徴とは.md",
-    "Clippings/設計の知識と技能で駆動するソフトウェア開発.md",
-    "Clippings/要領がいい人は、必ず紙に書いている。質のいい仕事をスムーズに進めるための「手書き」の方法.md",
-    "Clippings/簡単に自動化が実現！ 無料で始める「Google Apps Script」で作業効率を上げる方法【Google活用基本のき】.md",
-    "Clippings/第820回　改めてUbuntuに入門したい人向けのUbuntuサーバー講座2024.md",
-    "Clippings/第1回　HTTPプロトコルとは.md",
-    "Clippings/科学的に証明された“脳汁”の正体…大人気パチンコ・海物語は「演出の信頼度が40％っていうのが絶妙」.md",
-    "Clippings/知らないと後悔する最強のエンジニア勉強法.md",
-    "Clippings/知ってそうで知らないHTTPS.md",
-    "Clippings/知っておくと仕事が捗る便利ツール17選.md",
-    "Clippings/生産性向上チームを全人類に伝えたい.md",
-    "Clippings/未来を先取り！サーバーレスコンピューティングを徹底解説.md",
-    "Clippings/朝食から学ぶアジャイル開発.md",
-    "Clippings/望ましい自動テストとは｜どのようなテストが開発生産性と開発者体験を共に高めるのか.md",
-    "Clippings/日本ではKubernetesやCICDなどが幻滅期に、インダストリクラウドやインフラ自動化は過度な期待。「日本におけるクラウド・プラットフォームのハイプ・サイクル」2024年版発表.md",
-    "Clippings/新規サービス開発で起こったインフラ移行の舞台裏.md",
-    "Clippings/新しいTerraformのバージョンマネージャー tenv を試してみた  DevelopersIO.md",
-    "Clippings/成果を最速で出すタイパ勉強法.md",
-    "Clippings/弊社の「意識ﾁｮｯﾄ低いアーキテクチャ」10選.md",
+    "Clippings/TypeScriptで実践するクリーンアーキテクチャ WebからもCLIからも使えるアプリ設計 Speaker Deck.md",
+    "Clippings/AIの時代だからこそ、型システムがより厳格な静的型付け言語（GoやRustなど）が良いのでは？.md",
+    "Clippings/AWS、オンプレミスでもマルチプレイヤーオンラインゲームのサーバに耐える性能向上を実現した第二世代.md",
+    "Clippings/GPT-4.1、Claude 3.7 Sonnet、Gemini 2.5 Pro、Grok 3、用.md",
+    "Clippings/Findyの爆速開発を支える生成AI活用 MCPサーバー作成編 Findy Tech Blog.md",
+    "Clippings/Serverlessだからこそコードと設計にはこだわろう Speaker Deck.md",
+    "Clippings/デスクトップ Google Keep リッチテキスト形式オプション導入 Jetstream.md",
+    "Clippings/無限の可能性を引き出す！Kubernetesクラスタ拡張入門.md",
+    "Clippings/AnduinOSレビュー Windowsから移行する人にお薦めのLinuxディストロ.md",
+    "Clippings/ぽちぽち選択するだけでOSSを読めるVSCode拡張機能.md",
+    "Clippings/AWS完全初心者がAWS-SAAに合格した話 AWS認定試験 Qiita.md",
+    "Clippings/Docker の MCP Toolkit を試してみる.md",
+    "Clippings/UUIDを短くするライブラリを作った.md",
+    "Clippings/Cursor入門のツボ VSCode Qiita.md",
+    "Clippings/ゼロから始めるObsidianプラグイン開発-01.md",
+    "Clippings/同じ名前で分割代入する場合はショートハンドで強制するESLintルールをTypeScriptで作った.md",
+    "Clippings/Pythonで毎日の作業を自動化しよう！初心者向け業務効率化 YouTube.md",
+    "Clippings/Cursor AgentがQAエンジニアのプロダクト理解を加速させてくれた話 LayerX.md",
+    "Clippings/Goのテストをはじめてみよう（2025年版） フューチャー技術ブログ.md",
+    "Clippings/CursorとObsidianは理想の組み合わせではなかった Mekann.md",
+    "Clippings/Obsidianおすすめプラグイン 日常記録、コードスニペット、ブログの下書きに necco.md",
+    "Clippings/開発ツール・技術まとめ.md",
+    "Clippings/AWS 情報まとめ Amazon Qiita.md",
+    "Clippings/CISSPを1週間で合格するための勉強法 効率的にスコアを上げる実践テクニックを解説.md",
+    "Clippings/Terraformを活用したAWSの勉強法.md",
+    "Clippings/2025 業務アプリ向け WinForms 初級 MVPパターン 解説 自動テスト含む CSharp Qiita.md",
     "Clippings",
     "無題のファイル.canvas",
     "Excalidraw",
